@@ -1,6 +1,6 @@
 # Exploring Ethereum's Price with Python
 
-### Download the Exploring ETH Price.html to view the code and it's outputs quickly.<br><br>
+### Click the Exploring ETH Price.ipynb file above to view the code and it's outputs.<br><br>
 
 **Purpose**
 * Practicing Python by exploring the price of Ethereum, a decentralized cryptocurrency.
