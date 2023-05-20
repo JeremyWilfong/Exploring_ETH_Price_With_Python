@@ -1,9 +1,9 @@
 # Exploring Ethereum's Price with Python
 
-**Download the Exploring ETH Price.html to view the code and it's outputs quickly.**
+### Download the Exploring ETH Price.html to view the code and it's outputs quickly.<br><br>
 
 **Purpose**
-Practicing Python by exploring the price of Ethereum, a decentralized cryptocurrency.
+* Practicing Python by exploring the price of Ethereum, a decentralized cryptocurrency.
 
 **Methodology**
 1. Manipulate the imported yfinance data(creating new columns) to feed the Machine Learning Model and Scenario Exploration.
